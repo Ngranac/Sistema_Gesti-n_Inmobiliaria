@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|c:\\users\\ngranado\\source\\repos\\soft_inmobiliario\\sistemagesti\u00F3nconstructora\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|solutionrelative:sistemagesti\u00F3nconstructora\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|c:\\users\\ngranado\\source\\repos\\soft_inmobiliario\\sistemagesti\u00F3nconstructora\\pages\\bodegas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|solutionrelative:sistemagesti\u00F3nconstructora\\pages\\bodegas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|c:\\users\\ngranado\\source\\repos\\soft_inmobiliario\\sistemagesti\u00F3nconstructora\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|solutionrelative:sistemagesti\u00F3nconstructora\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|c:\\users\\ngranado\\source\\repos\\soft_inmobiliario\\sistemagesti\u00F3nconstructora\\wwwroot\\css\\all.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|solutionrelative:sistemagesti\u00F3nconstructora\\wwwroot\\css\\all.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|c:\\users\\ngranado\\source\\repos\\soft_inmobiliario\\sistemagesti\u00F3nconstructora\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|solutionrelative:sistemagesti\u00F3nconstructora\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|c:\\users\\ngranado\\source\\repos\\soft_inmobiliario\\sistemagesti\u00F3nconstructora\\wwwroot\\css\\mdb.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|solutionrelative:sistemagesti\u00F3nconstructora\\wwwroot\\css\\mdb.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|c:\\users\\ngranado\\source\\repos\\soft_inmobiliario\\sistemagesti\u00F3nconstructora\\wwwroot\\img\\log-azul.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|solutionrelative:sistemagesti\u00F3nconstructora\\wwwroot\\img\\log-azul.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|c:\\users\\ngranado\\source\\repos\\soft_inmobiliario\\sistemagesti\u00F3nconstructora\\pages\\bodegas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|solutionrelative:sistemagesti\u00F3nconstructora\\pages\\bodegas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|c:\\users\\ngranado\\source\\repos\\soft_inmobiliario\\sistemagesti\u00F3nconstructora\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|solutionrelative:sistemagesti\u00F3nconstructora\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|c:\\users\\ngranado\\source\\repos\\soft_inmobiliario\\sistemagesti\u00F3nconstructora\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|solutionrelative:sistemagesti\u00F3nconstructora\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|c:\\users\\ngranado\\source\\repos\\soft_inmobiliario\\sistemagesti\u00F3nconstructora\\pages\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|solutionrelative:sistemagesti\u00F3nconstructora\\pages\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|c:\\users\\ngranado\\source\\repos\\soft_inmobiliario\\sistemagesti\u00F3nconstructora\\modelos\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|solutionrelative:sistemagesti\u00F3nconstructora\\modelos\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|c:\\users\\ngranado\\source\\repos\\soft_inmobiliario\\sistemagesti\u00F3nconstructora\\modelos\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|solutionrelative:sistemagesti\u00F3nconstructora\\modelos\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|c:\\users\\ngranado\\source\\repos\\soft_inmobiliario\\sistemagesti\u00F3nconstructora\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|solutionrelative:sistemagesti\u00F3nconstructora\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|c:\\users\\ngranado\\source\\repos\\soft_inmobiliario\\sistemagesti\u00F3nconstructora\\modelos\\ubicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBC86E-1344-4582-9DCB-B7F03CA4E54A}|SistemaGesti\u00F3nConstructora\\SistemaGesti\u00F3nConstructora.csproj|solutionrelative:sistemagesti\u00F3nconstructora\\modelos\\ubicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 846,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1324522578:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mdb.min.css",
+              "DocumentMoniker": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\wwwroot\\css\\mdb.min.css",
+              "RelativeDocumentMoniker": "SistemaGesti\u00F3nConstructora\\wwwroot\\css\\mdb.min.css",
+              "ToolTip": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\wwwroot\\css\\mdb.min.css",
+              "RelativeToolTip": "SistemaGesti\u00F3nConstructora\\wwwroot\\css\\mdb.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-31T20:09:36.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SistemaGesti\u00F3nConstructora\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SistemaGesti\u00F3nConstructora\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-31T20:05:14.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "log-azul.png",
+              "DocumentMoniker": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\wwwroot\\img\\log-azul.png",
+              "RelativeDocumentMoniker": "SistemaGesti\u00F3nConstructora\\wwwroot\\img\\log-azul.png",
+              "ToolTip": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\wwwroot\\img\\log-azul.png",
+              "RelativeToolTip": "SistemaGesti\u00F3nConstructora\\wwwroot\\img\\log-azul.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-03-31T19:59:54.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistemaGesti\u00F3nConstructora\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistemaGesti\u00F3nConstructora\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T19:59:30.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bodegas.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\Pages\\Bodegas.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaGesti\u00F3nConstructora\\Pages\\Bodegas.cshtml.cs",
+              "ToolTip": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\Pages\\Bodegas.cshtml.cs",
+              "RelativeToolTip": "SistemaGesti\u00F3nConstructora\\Pages\\Bodegas.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T19:24:19.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bodegas.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\Pages\\Bodegas.cshtml",
+              "RelativeDocumentMoniker": "SistemaGesti\u00F3nConstructora\\Pages\\Bodegas.cshtml",
+              "ToolTip": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\Pages\\Bodegas.cshtml",
+              "RelativeToolTip": "SistemaGesti\u00F3nConstructora\\Pages\\Bodegas.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T19:24:00.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Registrarse.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\Pages\\Registrarse.cshtml",
+              "RelativeDocumentMoniker": "SistemaGesti\u00F3nConstructora\\Pages\\Registrarse.cshtml",
+              "ToolTip": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\Pages\\Registrarse.cshtml",
+              "RelativeToolTip": "SistemaGesti\u00F3nConstructora\\Pages\\Registrarse.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T14:20:25.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaGesti\u00F3nConstructora\\Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\Modelos\\Usuario.cs",
+              "RelativeToolTip": "SistemaGesti\u00F3nConstructora\\Modelos\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:20:13.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaGesti\u00F3nConstructora\\appsettings.json",
+              "ToolTip": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\appsettings.json",
+              "RelativeToolTip": "SistemaGesti\u00F3nConstructora\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-16T14:05:47.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "all.min.css",
+              "DocumentMoniker": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\wwwroot\\css\\all.min.css",
+              "RelativeDocumentMoniker": "SistemaGesti\u00F3nConstructora\\wwwroot\\css\\all.min.css",
+              "ToolTip": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\wwwroot\\css\\all.min.css",
+              "RelativeToolTip": "SistemaGesti\u00F3nConstructora\\wwwroot\\css\\all.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-31T20:16:13.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ubicaciones.cs",
+              "DocumentMoniker": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\Modelos\\Ubicaciones.cs",
+              "RelativeDocumentMoniker": "SistemaGesti\u00F3nConstructora\\Modelos\\Ubicaciones.cs",
+              "ToolTip": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\Modelos\\Ubicaciones.cs",
+              "RelativeToolTip": "SistemaGesti\u00F3nConstructora\\Modelos\\Ubicaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:20:00.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\Modelos\\Registro.cs",
+              "RelativeDocumentMoniker": "SistemaGesti\u00F3nConstructora\\Modelos\\Registro.cs",
+              "ToolTip": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\Modelos\\Registro.cs",
+              "RelativeToolTip": "SistemaGesti\u00F3nConstructora\\Modelos\\Registro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:19:58.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\Modelos\\Proyecto.cs",
+              "RelativeDocumentMoniker": "SistemaGesti\u00F3nConstructora\\Modelos\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\Modelos\\Proyecto.cs",
+              "RelativeToolTip": "SistemaGesti\u00F3nConstructora\\Modelos\\Proyecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:19:56.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaGesti\u00F3nConstructora\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "SistemaGesti\u00F3nConstructora\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:23:57.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaGesti\u00F3nConstructora\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ngranado\\source\\repos\\Soft_Inmobiliario\\SistemaGesti\u00F3nConstructora\\Pages\\Index.cshtml",
+              "RelativeToolTip": "SistemaGesti\u00F3nConstructora\\Pages\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T14:04:39.238Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 28,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
